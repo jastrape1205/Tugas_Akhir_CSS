@@ -1,0 +1,39 @@
+body{
+    background-image: radial-gradient(circle at top, gold 10%, green 30%, rgba(255, 217, 0, 0.836) 100%);
+}
+
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 200px;
+}
+
+.profileImage{
+    width: 200px;
+    margin-top: 100px;
+}
+
+.biodata{
+    background-image: linear-gradient(to bottom, #ffff 10%, #ffffffb6 45%, #ffffff00 100%);
+    padding-bottom: 300px;
+}
+
+.row{
+    padding: 0px 20px;
+}
+.card{
+    margin: auto;
+}
+
+.achievement{
+    padding-bottom: 200px;
+    padding-top: 100px;
+}
+
+.footer{
+    background-color: #ffff;
+    padding-bottom: 50px;
+    padding-right: 30px;
+}
