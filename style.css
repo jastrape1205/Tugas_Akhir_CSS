@@ -12,24 +12,28 @@ body{
 
 .profileImage{
     width: 200px;
-    margin-top: 100px;
+    padding-top: 100px;
 }
 
 .biodata{
     background-image: linear-gradient(to bottom, #ffff 10%, #ffffffb6 45%, #ffffff00 100%);
-    padding-bottom: 300px;
+    padding-bottom: 200px;
+    padding-top: 50px;
 }
-
+.turun{
+    margin-bottom: -1px;
+}
 .row{
-    padding: 0px 20px;
+    padding: 0px 25px;
 }
 .card{
     margin: auto;
 }
 
 .achievement{
+    margin-top: 50px;
+    padding-top: 50px;
     padding-bottom: 200px;
-    padding-top: 100px;
 }
 
 .footer{
